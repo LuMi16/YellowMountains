@@ -1,3 +1,6 @@
 .yellowtext{
   color: brown;
 }
+.automargin{
+  margin: 0px auto;
+}
