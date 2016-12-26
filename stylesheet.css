@@ -1,4 +1,8 @@
 .yellowtext{
   color: brown;
 }
-
+.body{
+  width: 1000px;
+  background: lightblue;
+  margin: 0px auto;
+}
